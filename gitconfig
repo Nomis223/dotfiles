@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	name = simon
-	email = [A
+	name = gh api ...
+	email = @users.noreply.github.com
